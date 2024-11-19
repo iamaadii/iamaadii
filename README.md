@@ -1,4 +1,4 @@
-- 👋 Hi, I’m aditya
+- 👋 Hi, I’m Aditya
 - 🌱 I’m currently learning python 
 
 <!---
