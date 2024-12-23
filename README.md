@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Aditya
-- 🌱 I’m currently learning python 
+- 👋 Hi, everyone myself Aditya and I am in the second year of Btech...
+- 🌱 
 
 <!---
 aadii9628/aadii9628 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
