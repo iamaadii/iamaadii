@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Aditya
 
-<!--
-**iamaadii/iamaadii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Software Development Engineer (SDE)
 
-Here are some ideas to get you started:
+> *Passionate about transforming theoretical knowledge into practical, real-world applications through meaningful projects and continuous learning.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🎓 B.Tech CSE Student
+* 🌱 Currently exploring **System Design**
+* 🧩 Love solving **Data Structures & Algorithms**
+* 🚀 Building projects to strengthen my development skills
+* 📚 Always curious to learn something new every day
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+
+* HTML
+* CSS
+* JavaScript
+* React.js
+
+### ⚙️ Backend
+
+* Node.js
+* Express.js
+
+### 🗄️ Database
+
+* MongoDB
+
+### 💻 Programming Languages
+
+* Java
+* JavaScript
+
+---
+
+⭐ *Thanks for visiting my profile!*
