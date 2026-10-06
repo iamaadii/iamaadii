@@ -1,44 +1,101 @@
 # Hi 👋, I'm Aditya
 
-### 💻 Aspiring Software Development Engineer (SDE)
+### 💻 Aspiring Software Development Engineer
 
-> *Passionate about transforming theoretical knowledge into practical, real-world applications through meaningful projects and continuous learning.*
+Building practical software projects, strengthening my problem-solving skills, and learning how real-world systems work.
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 * 🎓 B.Tech CSE Student
-* 🌱 Currently exploring **System Design**
-* 🧩 Love solving **Data Structures & Algorithms**
-* 🚀 Building projects to strengthen my development skills
-* 📚 Always curious to learn something new every day
+* 🧩 Solving **Data Structures & Algorithms** in Java
+* 🚀 Building backend and full-stack projects
+* 🏗️ Interested in **scalable backend systems and software development**
+* 📚 Learning by building and understanding how things work under the hood
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
+### Languages
 
-* HTML
-* CSS
-* JavaScript
-* React.js
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js" />
+</p>
 
-### ⚙️ Backend
+### Frontend
 
-* Node.js
-* Express.js
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
 
-### 🗄️ Database
+### Backend & Database
 
-* MongoDB
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
 
-### 💻 Programming Languages
+### 🧰 Tools
 
-* Java
-* JavaScript
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,eclipse,postman" />
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+## 🚀 Featured Projects
+
+### 🔐 Rate Limiter Service
+
+A backend service for controlling API request rates and preventing excessive requests.
+
+**Focus:** Rate limiting, concurrency, Redis, API protection
+
+🔗 [Repository](https://github.com/iamaadii/rate-limiter-service)
+
+---
+
+### 🎟️ Booking System
+
+A concurrent seat-booking system designed to prevent double booking when multiple users try to book the same seat simultaneously.
+
+**Focus:** MySQL transactions, `SELECT ... FOR UPDATE`, race conditions, JWT authentication
+
+🔗 [Repository](https://github.com/iamaadii/booking-system)
+
+---
+
+### 🏦 Bank Ledger
+
+A backend system focused on handling financial transactions safely and maintaining a consistent transaction history.
+
+**Focus:** Transactions, concurrency, database consistency, backend design
+
+🔗 [Repository](https://github.com/iamaadii/Bank_Ledger)
+
+---
+
+
+## 📊 Problem Solving
+
+* 🧠 **600+ DSA Problems Solved**
+* ☕ Java for DSA and problem solving
+* 📚 Practising Data Structures & Algorithms regularly
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://github.com/iamaadii">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/iamaadii/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ Thanks for visiting my profile!
