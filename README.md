@@ -10,7 +10,7 @@ Building practical software projects, strengthening my problem-solving skills, a
 
 * 🎓 B.Tech CSE Student
 * 🧩 Solving **Data Structures & Algorithms** in Java
-* 🚀 Building backend and full-stack projects
+* 🚀 Building backend projects
 * 🏗️ Interested in **scalable backend systems and software development**
 * 📚 Learning by building and understanding how things work under the hood
 
