@@ -1,101 +1,123 @@
-# Hi 👋, I'm Aditya
+# 👋 Hi, I'm Aditya
 
-### 💻 Aspiring Software Development Engineer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer" alt="Typing SVG" />
+</p>
 
-Building practical software projects, strengthening my problem-solving skills, and learning how real-world systems work.
+<p align="center">
+  <a href="https://www.linkedin.com/in/iamaadii/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech CSE Student
-* 🧩 Solving **Data Structures & Algorithms** in Java
-* 🚀 Building backend projects
-* 🏗️ Interested in **scalable backend systems and software development**
-* 📚 Learning by building and understanding how things work under the hood
+- 🎓 B.Tech CSE Student
+- 🧩 Solving **Data Structures & Algorithms** in Java
+- 🚀 Building backend projects
+- 🏗️ Interested in **scalable backend systems and software development**
+- 📚 Learning by building and understanding how things work under the hood
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js" />
+  <img src="https://skillicons.dev/icons?i=java,js" alt="Java and JavaScript"/>
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,react" alt="HTML, CSS and React"/>
 </p>
 
-### Backend & Database
+### ⚙️ Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js, Express, MongoDB and MySQL"/>
 </p>
 
 ### 🧰 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,eclipse,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,postman" alt="Git, GitHub, VS Code, IntelliJ IDEA, Docker and Postman"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔐 Rate Limiter Service
-
-A backend service for controlling API request rates and preventing excessive requests.
-
-**Focus:** Rate limiting, concurrency, Redis, API protection
-
-🔗 [Repository](https://github.com/iamaadii/rate-limiter-service)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 Rate Limiter Service</h3>
+      <p>A backend service that controls API request rates and protects endpoints from excessive requests.</p>
+      <p><strong>Tech & Concepts</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+      </p>
+      <p><strong>Focus:</strong> Rate Limiting · Concurrency · API Protection</p>
+      <a href="https://github.com/iamaadii/rate-limiter-service">↗ View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎟️ Booking System</h3>
+      <p>A concurrent seat-booking system designed to prevent double booking when users reserve the same seat simultaneously.</p>
+      <p><strong>Tech & Concepts</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+      <p><strong>Focus:</strong> Transactions · Race Conditions · JWT Authentication</p>
+      <a href="https://github.com/iamaadii/booking-system">↗ View Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🏦 Bank Ledger</h3>
+      <p>A backend system focused on safe financial transactions and maintaining a consistent transaction history.</p>
+      <p><strong>Tech & Concepts</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/Backend-3776AB?style=flat-square&logo=serverfault&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Database_Transactions-555555?style=flat-square&logo=databricks&logoColor=white"/>
+      </p>
+      <p><strong>Focus:</strong> Transactions · Concurrency · Database Consistency · Backend Design</p>
+      <a href="https://github.com/iamaadii/Bank_Ledger">↗ View Repository</a>
+    </td>
+  </tr>
+</table>
 
 ---
+## 📊 GitHub Analytics
 
-### 🎟️ Booking System
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iamaadii&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamaadii&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</p>
 
-A concurrent seat-booking system designed to prevent double booking when multiple users try to book the same seat simultaneously.
-
-**Focus:** MySQL transactions, `SELECT ... FOR UPDATE`, race conditions, JWT authentication
-
-🔗 [Repository](https://github.com/iamaadii/booking-system)
-
----
-
-### 🏦 Bank Ledger
-
-A backend system focused on handling financial transactions safely and maintaining a consistent transaction history.
-
-**Focus:** Transactions, concurrency, database consistency, backend design
-
-🔗 [Repository](https://github.com/iamaadii/Bank_Ledger)
-
----
-
-
-## 📊 Problem Solving
-
-* 🧠 **600+ DSA Problems Solved**
-* ☕ Java for DSA and problem solving
-* 📚 Practising Data Structures & Algorithms regularly
-
----
-
-## 📫 Connect With Me
-
-<p>
-  <a href="https://github.com/iamaadii">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/iamaadii/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=iamaadii&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/iamaadii/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>"Build. Learn. Debug. Improve. Repeat."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
