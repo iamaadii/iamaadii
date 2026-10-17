@@ -55,30 +55,52 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>⚖️ Online Judge</h3>
+      <p>A backend system that executes submitted code in isolated Docker containers and evaluates it against test cases.</p>
+      <p><strong>Tech & Concepts</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/BullMQ-E3432D?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT-D63AFF?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+      </p>
+      <p><strong>Focus:</strong> Sandboxing · Job Queues · Background Workers · Rate Limiting · Hidden Test Cases</p>
+      <a href="https://github.com/iamaadii/Online-Judge">↗ View Repository</a>
+    </td>
+    <td width="50%" valign="top">
       <h3>🔐 Rate Limiter Service</h3>
       <p>A backend service that controls API request rates and protects endpoints from excessive requests.</p>
       <p><strong>Tech & Concepts</strong></p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       </p>
-      <p><strong>Focus:</strong> Rate Limiting · Concurrency · API Protection</p>
+      <p><strong>Focus:</strong> Rate Limiting · Fixed Window · Token Bucket · Sliding Window · Atomic Lua Scripts · API Protection</p>
       <a href="https://github.com/iamaadii/rate-limiter-service">↗ View Repository</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🎟️ Booking System</h3>
       <p>A concurrent seat-booking system designed to prevent double booking when users reserve the same seat simultaneously.</p>
       <p><strong>Tech & Concepts</strong></p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT-D63AFF?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       </p>
-      <p><strong>Focus:</strong> Transactions · Race Conditions · JWT Authentication</p>
+      <p><strong>Focus:</strong> Transactions · Row Locking · Race Conditions · Seat Holds · JWT Authentication</p>
       <a href="https://github.com/iamaadii/booking-system">↗ View Repository</a>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3>🏦 Bank Ledger</h3>
       <p>A backend system focused on safe financial transactions and maintaining a consistent transaction history.</p>
       <p><strong>Tech & Concepts</strong></p>
