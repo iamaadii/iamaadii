@@ -22,7 +22,7 @@
 
 <br>
 
-## 🛠️ Tech Stack
+## 🛠️ Techical Skills
 
 
 
