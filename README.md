@@ -10,7 +10,7 @@
   </a>
 </p>
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -20,35 +20,37 @@
 - 🏗️ Interested in **scalable backend systems and software development**
 - 📚 Learning by building and understanding how things work under the hood
 
----
+<br>
 
 ## 🛠️ Tech Stack
 
+
+
 ### 💻 Languages
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,js" alt="Java and JavaScript"/>
 </p>
 
 ### 🎨 Frontend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react" alt="HTML, CSS and React"/>
 </p>
 
 ### ⚙️ Backend & Database
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js, Express, MongoDB and MySQL"/>
 </p>
 
 ### 🧰 Tools
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,postman" alt="Git, GitHub, VS Code, IntelliJ IDEA, Docker and Postman"/>
 </p>
 
----
+<br>
 
 ## 🚀 Featured Projects
 
@@ -114,7 +116,32 @@
   </tr>
 </table>
 
----
+
+<br>
+
+## 💻 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/iamaadii/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+  </a>
+  &nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/imaadii">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile" />
+  </a>
+</p>
+
+### 🔥 Activity Heatmap
+
+<p align="center">
+  <a href="https://leetcode.com/u/iamaadii/">
+    <img src="https://leetcard.jacoblin.cool/iamaadii?ext=heatmap&theme=dark&font=Fira%20Code&cache=0" alt="LeetCode Submission Heatmap" width="100%" />
+  </a>
+</p>
+
+<br>
+
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -126,7 +153,7 @@
   <img src="https://streak-stats.demolab.com?user=iamaadii&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
----
+<br>
 
 ## 🤝 Let's Connect
 
